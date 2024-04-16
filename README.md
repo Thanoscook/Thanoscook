@@ -11,6 +11,9 @@ Thanks for having a look at my profile, I am a Java/spring boot developer lookin
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Spring boot and Angular projects specially security related.
 
+### Few Words
+* Having fun creating applications that can simplify parsing/reporting findings from security tools
+
 ### Skills
 
 
