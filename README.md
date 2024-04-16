@@ -7,12 +7,14 @@ Java developer With an Angular itch!
 Thanks for having a look at my profile, I am a Java/spring boot developer looking for collaborations. Please do not hesitate to get in touch with me.
 
 * 🌍  I'm based in United Kingdom
+* Experienced in Capital Markets Software Development
 * ✉️  You can contact me at [thanoscook@gmail.com](mailto:thanoscook@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Spring boot and Angular projects specially security related.
 
 ### Few Words
 * Having fun creating applications that can simplify parsing/reporting findings from security tools
+* Unity projects completed for fun
 
 ### Skills
 
